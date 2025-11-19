@@ -1,0 +1,3 @@
+[submodule "GVHMR"]
+    path = GVHMR
+    url = https://github.com/the-masses/GVHMR.git
