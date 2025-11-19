@@ -1,3 +1,7 @@
 [submodule "GVHMR"]
     path = GVHMR
-    url = https://github.com/the-masses/GVHMR.git
+	url = https://github.com/the-masses/GVHMR.git
+
+[submodule "GVHMR"]
+    path = ProtoMotions
+        url = https://github.com/the-masses/ProtoMotions.git
