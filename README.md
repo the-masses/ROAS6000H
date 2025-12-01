@@ -10,12 +10,12 @@ https://github.com/the-masses/ROAS6000H
 
 <p align="center">
   <!-- Replace with your teaser video / gif -->
-  <img src="media/human_motion_capture.mp4" width="100%">
+  <img src="media/hmr.gif" width="100%">
 </p>
 
 <p align="center">
   <!-- Replace with your teaser video / gif -->
-  <img src="media/training.mp4" width="100%">
+  <img src="media/training.gif" width="100%">
 </p>
 
 ---
