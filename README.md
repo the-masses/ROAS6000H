@@ -10,7 +10,7 @@ https://github.com/the-masses/ROAS6000H
 
 <p align="center">
   <!-- Replace with your teaser video / gif -->
-  <img src="media/hmr.gif" width="100%">
+  <img src="media/hmr.gif" width="70%">
 </p>
 
 <p align="center">
